@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Group_180" data-name="Group 180" transform="translate(-350 -548)">
+    <g id="Rectangle_108" data-name="Rectangle 108" transform="translate(350 548)" fill="none" stroke="#002d6a" stroke-width="2">
+      <rect width="36" height="36" rx="18" stroke="none"/>
+      <rect x="1" y="1" width="34" height="34" rx="17" fill="none"/>
+    </g>
+    <path id="ic_place_24px" d="M13.1,2C8.62,2,5,5.13,5,9c0,5.25,8.1,13,8.1,13s8.1-7.75,8.1-13C21.191,5.13,17.571,2,13.1,2Zm0,9.5A2.718,2.718,0,0,1,10.2,9,2.718,2.718,0,0,1,13.1,6.5,2.718,2.718,0,0,1,15.986,9,2.718,2.718,0,0,1,13.1,11.5Z" transform="translate(354.905 554)" fill="#002d6a"/>
+  </g>
+</svg>

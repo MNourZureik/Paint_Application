@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397943887491",
+    "project_id": "juton-ca78a",
+    "storage_bucket": "juton-ca78a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397943887491:android:957a8ea613183cf9dc6db6",
+        "android_client_info": {
+          "package_name": "com.aldrtech.jotun_customers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdnZd0sOOusU2j1Ouw6sj-iKKkuBxqy28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

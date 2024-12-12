@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Group_269" data-name="Group 269" transform="translate(-176 -585)">
+    <g id="Group_164" data-name="Group 164" transform="translate(0 21)">
+      <g id="Group_162" data-name="Group 162" transform="translate(176 564)">
+        <g id="Group_40" data-name="Group 40">
+          <g id="Group_38" data-name="Group 38">
+            <g id="Ellipse_22" data-name="Ellipse 22" fill="none" stroke="#002d6a" stroke-width="2">
+              <circle cx="18" cy="18" r="18" stroke="none"/>
+              <circle cx="18" cy="18" r="17" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path id="ic_image_24px" d="M21,19V5a2.006,2.006,0,0,0-2-2H5A2.006,2.006,0,0,0,3,5V19a2.006,2.006,0,0,0,2,2H19A2.006,2.006,0,0,0,21,19ZM8.5,13.5,11,16.51,14.5,12,19,18H5Z" transform="translate(181.667 569.667)" fill="#002d6a"/>
+    </g>
+  </g>
+</svg>

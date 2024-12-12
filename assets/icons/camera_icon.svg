@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Group_161" data-name="Group 161" transform="translate(-314 -585)">
+    <g id="Group_40" data-name="Group 40">
+      <g id="Group_38" data-name="Group 38" transform="translate(138)">
+        <g id="Ellipse_22" data-name="Ellipse 22" transform="translate(176 585)" fill="none" stroke="#fcaf17" stroke-width="2">
+          <circle cx="18" cy="18" r="18" stroke="none"/>
+          <circle cx="18" cy="18" r="17" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="ic_camera_alt_24px" transform="translate(320 592.538)">
+      <circle id="Ellipse_14" data-name="Ellipse 14" cx="2.585" cy="2.585" r="2.585" transform="translate(9.415 8.89)" fill="#fcaf17"/>
+      <path id="Path_89" data-name="Path 89" d="M9,2,7.17,3.88H4a1.949,1.949,0,0,0-2,1.88V17.043a1.949,1.949,0,0,0,2,1.88H20a1.949,1.949,0,0,0,2-1.88V5.761a1.949,1.949,0,0,0-2-1.88H16.83L15,2Zm3,14.1a4.859,4.859,0,0,1-5-4.7,4.859,4.859,0,0,1,5-4.7,4.859,4.859,0,0,1,5,4.7A4.859,4.859,0,0,1,12,16.1Z" transform="translate(0 0)" fill="#fcaf17"/>
+    </g>
+  </g>
+</svg>
